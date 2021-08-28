@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         String hello = "Hello Git";
         //connect firebase to the project
         //add new line
+        //lgvkdrb;kb;
     }
 }
