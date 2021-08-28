@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //connect firebase to the project
         //add new line
         //lgvkdrb;kb;
+        //code after push to remote
     }
 }
